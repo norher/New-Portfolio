@@ -6,7 +6,7 @@
 
 https://opensource.org/licenses/Apache-2.0
 
-![Image](/New-Portfolio/assets/images/Screenshot%202022-07-23%20000153.png)
+![Image](./assets/images/landing.png)
 
 ## Table of contents
 
